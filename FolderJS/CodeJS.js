@@ -19,7 +19,7 @@ if(sessionStorage.getItem('UserPassword') == SP && denialCounter == 0) {
 if(sessionStorage.getItem('UserPassword') == SP) {
 
 	var YTlink = document.getElementById("YT-Channel");
-	YTlink.innerHTML = "YT-Channel me <]";
+	YTlink.innerHTML = "YT-Glory-ALL";
 	YTlink.style.display = "inline";
 
 	YTlink.style.color = "#0e274f";							//Waere richtig aetzend hier jetzt anders vorzugehgen XD
